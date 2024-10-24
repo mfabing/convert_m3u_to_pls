@@ -1,4 +1,4 @@
-Use this simple Bash script to convert `.m3u` playlist files to `.pls`. Here’s how you can do it. First, let’s assume the `.m3u` file format looks something like this:
+Use this simple Bash script to convert '.m3u' playlist files to '.pls'.
 
 ### How to use:
 1. Save the script in a file, e.g., `convert_m3u_to_pls.sh`.
